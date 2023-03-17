@@ -59,7 +59,7 @@ header .menu a:hover {
 
 .home {
     height: calc(100vh - 55px);
-    background: url("images/img1.jpg");
+    background: url("img1.jpg");
     background-position: center;
     background-size: cover;
     display: flex;
@@ -161,7 +161,7 @@ header .menu a:hover {
 /* banner */
 .banner {
     height: 70vh;
-    background: url("images/img2.png");
+    background: url("img2.png");
     background-position: center;
     background-size: cover
 }
